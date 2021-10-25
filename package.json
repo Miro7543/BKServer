@@ -4,7 +4,6 @@
   "description": "server for BK with socket.io",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
   },
   "author": "Miro7543",
   "license": "ISC",
