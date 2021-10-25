@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server for BK with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Miro7543",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14",
+    "socket.io": "^4.3.1"
+  }
+}
